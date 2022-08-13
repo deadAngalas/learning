@@ -10,6 +10,6 @@ print(m.factorial(10))
 from math import factorial as f #можно импортировать конкретную функцию 2)так же можно сократить
 print(f(10))
 
-import sozdanie_modulya as s
+import moduli.sozdanie_modulya as s
 
 s.privet() # имя модуля, потом имя функции
