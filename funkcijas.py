@@ -30,7 +30,7 @@ b=5
 print(a)
 
 def f():
-    global a
+    global a 
     a = a+2
     print(a)
 

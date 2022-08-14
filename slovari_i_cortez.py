@@ -14,4 +14,4 @@ for i in dict.keys():
 del (dict['Лимон'])
 print(dict)
 
-#print(dict['Банан'])
+print(dict['Банан'])

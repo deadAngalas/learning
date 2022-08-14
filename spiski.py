@@ -21,7 +21,7 @@ numbers = [91, 29, 42, 4246, 643]
 numbers.sort(reverse= True)
 print(numbers)
 
-numbers[0] = 'SKAM'
+numbers[0] = 1
 numbers.sort()
 print(numbers)
 
