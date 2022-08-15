@@ -1,4 +1,4 @@
-print('Privet\tPrivet\nPri\"Hello\"vet\n"текст в кавычках"')
+print('Privet\tPrivet\nPri\"Hello\"vet\n"текст в кавычках"') # \n делает новый абзац    \t делает 4 проблема либо 1 табуляцию
 
 text = "privet mir kyda idew"
 text1 = "Mir"
