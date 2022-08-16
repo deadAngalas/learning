@@ -1,11 +1,11 @@
-#tuple = кортеж
+#tuple = кортеж пишется в () скобках 
 
 spisok = [1,2,6,3,5,2,5]
 print(type(spisok[1]))
 
 print(tuple(['Hello', 46, 90]))
 
-print(list((3,53,77,)))
+print(list((3,53,77,)))   # list превращает в список
 
 dict = {'Яблоко': 'Красное', 'Банан': 'Желтый', 'Лимон': 'Желтый'}
 for i in dict.keys():
